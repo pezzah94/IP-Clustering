@@ -1,0 +1,20 @@
+\begin{center}
+\begin{tabular}{| c | c | c |c  | c |  c  | c | c|c|c|}
+\hline
+
+
+Q4 & Q6 & Q7 & Q8 & Q17 & salary                                                   \\
+45-49 & Doctoral degree & Consultant & Other &  &                                  \\
+30-34 & Bachelor’s degree & Other & Manufacturing/Fabrication & 5-10   \\
+30-34 & Master’s degree & Data Scientist & I am a student & 0-1        \\
+35-39 & Master’s degree & Not employed &  &                                  \\
+22-24 & Master’s degree & Data Analyst & I am a student & 0-1          \\
+25-29 & Bachelor’s degree & Data Scientist & Computers/Technology & 0-1 \\
+35-39 & Doctoral degree & Other & Academics/Education & 10-15 &      \\
+18-21 & Master’s degree & Other & Other & 0-1 &                           \\
+25-29 & Master’s degree & Not employed &  &  &                                     \\
+30-34 & Master’s degree & Software Engineer & Online Service/Internet-based Service\\
+\hline
+\end{tabular}
+\end{center}
+
